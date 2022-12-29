@@ -3,14 +3,9 @@ body {
   padding : 100px;
   max-width: 1000px;
   margin: 0 auto;
-  padding-top: 5px;
+  padding-top: 50px;
 }
-ul{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  color: red;
-}
+
 
 a {
   color: inherit;

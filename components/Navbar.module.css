@@ -1,0 +1,17 @@
+.header{
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 4px;
+}
+.navbar{
+    display: flex;
+    /* flex-direction: row;
+    justify-content: space-around;
+    color: red; */
+    list-style: none;
+    gap: 32px;
+}
+.navbar a:hover{
+    color: red;
+    text-decoration: underline;
+}

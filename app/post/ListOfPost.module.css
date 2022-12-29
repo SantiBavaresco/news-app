@@ -1,0 +1,27 @@
+.card {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 1em;
+    margin-top: 0em;
+    display: flex;
+    align-self: stretch;
+    flex-wrap: nowrap ;
+    align-content: space-around;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse
+
+    
+}
+.card img{
+  width: 50%;
+  /* object-fit: cover; */
+  /* margin: 15px; */
+  border-radius: 15px ;
+  border:4px;
+  border-color: black; 
+}
+.card h2:hover{
+    color: red;
+    text-decoration: underline;
+}
