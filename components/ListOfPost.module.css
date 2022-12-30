@@ -1,6 +1,6 @@
 .card {
     list-style-type: none;
-    padding: 0;
+    padding: 5px;
     margin-bottom: 1em;
     margin-top: 0em;
     display: flex;
@@ -18,10 +18,11 @@
   /* object-fit: cover; */
   /* margin: 15px; */
   border-radius: 15px ;
-  border:4px;
-  border-color: black; 
+  border: 14px;
+  border-color: white; 
+  padding: 5px;
 }
-.card h2:hover{
+/* .card h2:hover{
     color: red;
     text-decoration: underline;
-}
+} */

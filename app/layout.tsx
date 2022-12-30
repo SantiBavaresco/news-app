@@ -10,6 +10,7 @@ export default function RootLayout({
     <html>
       <head > 
         <title>My first page with nextJS</title>
+        
       </head>
       <body>
         {/* <header> */}
