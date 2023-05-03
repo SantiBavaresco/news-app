@@ -12,7 +12,6 @@
     border-radius: 25px ;
 }
 .shape_outer {
-
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
